@@ -14,7 +14,7 @@ class PostsController extends Controller
     public function index()
     {
         //
-        return view('cours.index');
+        return view('test.testpage');
     }
 
     /**
